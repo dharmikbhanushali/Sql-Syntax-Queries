@@ -3,7 +3,7 @@
 # SQL Syntax Notebook
 
 ## Project Overview
-This Jupyter notebook, titled "SQLSyntax.ipynb," serves as a practical guide and reference for various SQL syntaxes and functions. It's designed to help users understand and apply different SQL operations effectively within their projects, with a focus on window functions like LAG and LEAD.
+This Jupyter notebook, titled "SQLSyntax.ipynb," serves as a practical guide and reference for various SQL syntaxes and functions. It's designed to help users understand and apply different SQL operations effectively within their projects.
 
 ## Key Features
 - **SQL Functions and Syntax**: Demonstrates the use of SQL functions, particularly window functions, to analyze data trends and relationships.
